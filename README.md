@@ -2,7 +2,7 @@
 
 ## Hola mi nombre es Pablo Graffigna y en este repositorio guardo mis proyectos.
 
-### Tengo linkedin **[Linkedin](https://www.linkedin.com/in/pablo-graffigna/)
-### Tengo twitter **[Twitter](https://twitter.com/ruge_leon)
+### Tengo linkedin **[Linkedin](https://www.linkedin.com/in/pablo-graffigna/)**
+### Tengo twitter **[Twitter](https://twitter.com/ruge_leon)**
 
 
