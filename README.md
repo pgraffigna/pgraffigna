@@ -1,8 +1,8 @@
 Hi 👋 My name is Pablo Graffigna
 ================================
 
-Linux Sysadmin y mucho mas!!
-----------------------------
+Linux Sysadmin
+--------------
 
 Más de 10 años usando herramientas open source..actualmente interesado en la ciberseguridad y el mundo del pentesting.
 
