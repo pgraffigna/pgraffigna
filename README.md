@@ -1,14 +1,14 @@
 Hi 👋 My name is Pablo Graffigna
 ================================
 
-Linux Sysadmin
+Linux SysAdmin
 --------------
 
 Más de 10 años usando herramientas open source..actualmente interesado en la ciberseguridad y el mundo del pentesting.
 
 * 🌍  I'm based in Buenos Aires
 * 🖥️  See my portfolio at [mi CV](https://pgraffigna.github.io/curriculum/)
-* 🚀  I'm currently working on [configurando proxy reverso con nginx](http://github.com/pgraffigna/docker_nginx_proxy_manager)
+* 🚀  I'm currently working on [configurando node_exporter via ansible en equipos remotos](https://github.com/pgraffigna/ansible_role_node_exporter)
 * 🧠  I'm learning pentesting + red teams + seguridad informatica
 * 🤝  I'm open to collaborating on : todo lo relacionado con linux + bash + hacking
 
