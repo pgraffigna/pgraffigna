@@ -1,15 +1,17 @@
+[![CV](https://img.shields.io/badge/Website-3776AB?style=for-the-badge)](https://pgraffigna.github.io/curriculum/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ar.linkedin.com/in/pablo-graffigna)
+
 Hi 👋 My name is Pablo Graffigna
 ================================
 
 Linux SysAdmin
 --------------
 
-Más de 10 años usando herramientas open source..actualmente interesado en la ciberseguridad y el mundo del pentesting.
+Más de 10 años usando herramientas open source, actualmente interesado en la ciberseguridad y el mundo de la seguridad en sistemas informaticos.
 
 * 🌍  I'm based in Buenos Aires
-* 🖥️  See my portfolio at [mi CV](https://pgraffigna.github.io/curriculum/)
 * 🚀  I'm currently working on [configurando node_exporter via ansible en equipos remotos](https://github.com/pgraffigna/ansible_role_node_exporter)
-* 🧠  I'm learning pentesting + red teams + seguridad informatica
+* 🧠  I'm learning seguridad informatica
 * 🤝  I'm open to collaborating on : todo lo relacionado con linux + bash + hacking
 
 <a href="https://www.github.com/pgraffigna" target="_blank" rel="noreferrer"><img
@@ -17,17 +19,9 @@ src="https://img.shields.io/github/followers/pgraffigna?logo=github&style=for-th
 
 ### Skills
 
-
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/pgraffigna" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/pgraffigna" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
 
 <b>My GitHub Stats</b>
 
